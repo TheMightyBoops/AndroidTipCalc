@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WorkingCalc"
+             x:Class="WorkingCalc.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Frame>
+            <!--<Label Text="Input Desired Tip Percentage in Decimal Form:"/>-->
+            <Entry x:Name="percent" Keyboard="Numeric" Placeholder="Percent"/>
+        </Frame>
+        <Frame>
+            <Entry x:Name="cost" Keyboard="Numeric" Placeholder="Meal Cost"/>
+        </Frame>
+        <Button Text="Calculate" Clicked="Handle_Clicked" />
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\bin\Debug\netstandard2.0\WorkingCalc.deps.json
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\bin\Debug\netstandard2.0\WorkingCalc.dll
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\bin\Debug\netstandard2.0\WorkingCalc.pdb
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\WorkingCalc.csprojAssemblyReference.cache
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\WorkingCalc.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\WorkingCalc.AssemblyInfoInputs.cache
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\WorkingCalc.AssemblyInfo.cs
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\WorkingCalc.dll
+C:\Users\Lucas Nolting\source\repos\WorkingCalc\WorkingCalc\WorkingCalc\obj\Debug\netstandard2.0\WorkingCalc.pdb
